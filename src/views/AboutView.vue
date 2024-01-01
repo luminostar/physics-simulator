@@ -4,7 +4,8 @@
   </div>
 </template>
 
-<style>
+<script setup></script>
+<!-- <style>
 @media (min-width: 1024px) {
   .about {
     min-height: 100vh;
@@ -12,4 +13,4 @@
     align-items: center;
   }
 }
-</style>
+</style> -->
