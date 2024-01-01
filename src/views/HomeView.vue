@@ -10,7 +10,7 @@
         Lorem ipsum, dolor sit amet, consectetur adipisicing elit. Dignissimos, aliquam ratione exercitationem, illo temporibus dicta in dolorem sunt corporis eius assumenda dolor officia porro molestiae quibusdam voluptatibus quod. Aperiam, consectetur?
         </h1>
       </div>
-      <div class="grid grid-rows-2 grid-flow-col gap-2 border">
+      <div class="grid grid-rows-2 grid-flow-col gap-2 place-items-center border">
         <div>Center</div>
         <div class="grid grid-cols-2 gap-2">
           <div>Center Div</div>
