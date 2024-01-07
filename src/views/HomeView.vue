@@ -5,12 +5,12 @@ import { defineProps } from 'vue';
 <template>
   <div class="row bg-dark rounded-4 mx-2 mt-2">
     <div class="col">
-      <p class="display-5 text-center text-light">Grafika Komputer Menggunakan Algoritma Digital Differential Analyzer
+      <p class="display-5 text-center text-light py-2">Grafika Komputer Menggunakan Algoritma Digital Differential Analyzer
         Untuk Penerapan Simulasi Cermin & Lensa Cembung Dan Cekung Serta Gerak Parabola</p>
     </div>
   </div>
-  <div class="bg-dark rounded-4 my-2 mx-2 mb-4">
-    <div class="row m-1">
+  <div class="bg-dark rounded-4 mt-2 mx-2 mb-2">
+    <div class="row">
       <div class="col d-flex align-items-center justify-content-center">
         <div class="card rounded-4 my-2" style="width: 18rem;">
           <a href="#">
